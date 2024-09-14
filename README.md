@@ -1,7 +1,7 @@
 <h1 align="center">CYD Slim Case</h1>
 
 <div align="center">
-<img src="./assets/cyd_slim_case.png." alt="cyd case" width="400"/>
+<img src="./assets/cyd_slim_case.png" alt="cyd case" width="400"/>
 </div>
 
 <h2 align="center">About</h2>
